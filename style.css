@@ -1,0 +1,17 @@
+h3{
+   font-size: 25px !important;
+   color:black !important;
+}
+.btn-success:hover
+{
+    background-color: red;
+}
+canvas{
+    border:1px black solid;
+    animation-name: example;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+}
+@keyframes example {
+    
+}
